@@ -1,0 +1,28 @@
+# Rock vs Mine Prediction (SONAR Dataset)
+
+This project predicts whether a sonar signal is a **Rock** or a **Mine** using Machine Learning (Logistic Regression).
+
+## 📘 Files Included
+- `rockvsminepred.ipynb` — Main Google Colab notebook with code
+- (Optional) `sonar_data.csv` — Dataset file if uploaded
+
+## 🚀 Steps Covered in the Notebook
+1. Importing dependencies  
+2. Data loading and preprocessing  
+3. Splitting the dataset into train & test  
+4. Training Logistic Regression model  
+5. Evaluating accuracy  
+6. Making predictions  
+
+## 📊 Dataset
+Dataset from the **UCI Machine Learning Repository** (Sonar Dataset).
+
+## 🛠 Tools Used
+- Python  
+- NumPy  
+- Pandas  
+- Scikit-Learn  
+
+## ✨ How to Run
+Open the `.ipynb` file in Google Colab or Jupyter Notebook.
+
